@@ -1,0 +1,3 @@
+For this assignment, I want you to clone a git repository that contains a dataset, create a simple R script performing a statistical analysis, and then commit your changes and push that repository back. This will help familiarize you with how git works. 
+
+More to come...
